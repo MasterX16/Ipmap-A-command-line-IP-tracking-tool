@@ -13,6 +13,11 @@ sudo ./setup.sh
 ipmap -h
 Now the file is added to PATH
 ```
+## Features
+Geolocation of single ip
+Mapping the location to a .html file which can be later viewed in a web browser.
+Geolocation of ip lists and wordlists,which are txt files with ips 
+Saving geolocation to txt and json files.
 
 ## License
 This project is released under the MIT License.See the [LICENSE](https://github.com/MasterX16/Ipmap-A-command-line-IP-tracking-tool/LICENSE) file for more.
