@@ -11,3 +11,7 @@ cd Ipmap
 chmod +x setup.sh
 sudo ./setup.sh
 ipmap -h
+Now the file is added to PATH ```
+
+## License
+This project is released under the MIT License.See the [LICENSE](https://github.com/MasterX16/Ipmap-A-command-line-IP-tracking-tool/LICENSE) file for more.
