@@ -16,7 +16,8 @@ Now the file is added to PATH
 ```
 ## Features
 Geolocation of single ip  <br />
-Mapping the location to a .html file which can be later viewed in a web browser   <br />
+Mapping the location to a .html file which can be later viewed in a web browser.Interactive map done using folium library with markers.<br />
+Marking location of multiple IP's on one interactive map with markers <br />
 Geolocation of ip lists and wordlists,which are txt files with ips   <br />
 Saving geolocation to txt and json files   <br />
 
